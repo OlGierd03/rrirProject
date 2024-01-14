@@ -75,7 +75,8 @@ def create_B_matrix(n):
     B[n-1][n-2] = B_value(n-2, n-1)
     B[n-1][n-1] = B_value(n-1, n-1)
     for i in range(1, n-1):
-        for j in range(i-1, i+2):
+        B[i][i-1] = B[i-1][i]
+        for j in range(i, i+2):
             B[i][j] = B_value(j, i)
     return B
 

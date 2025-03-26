@@ -40,7 +40,6 @@ $$
 ## Struktura projektu
 
 - [**`main.py`**](https://github.com/OlGierd03/rrirProject/blob/main/main.py) – skrypt rozwiązujący równanie różniczkowe
-- [**`README.md`**](https://github.com/OlGierd03/rrirProject/blob/main/README.md) – ten plik, zawierający opis problemu
 - [**`rrir_notebook.ipynb`**](https://github.com/OlGierd03/rrirProject/blob/main/rrir_notebook.ipynb) – notatnik zawierający rozwiązanie problemu wraz z otrzymanymi wynikami
 - [**`sformułowanie_wariacyjne.pdf`**](https://github.com/OlGierd03/rrirProject/blob/main/sformu%C5%82owanie_wariacyjne.pdf) – obliczenia przekształcające sformułowanie silne na sformułowanie wariacyjne 
 

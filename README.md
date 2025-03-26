@@ -38,20 +38,18 @@ $$
 
 ## Struktura projektu
 
-- **`main.py`** – skrypt rozwiązujący równanie różniczkowe
-- **`README.md`** – ten plik, zawierający opis problemu
-- **`rrir_notebook.ipynb`** – notatnik zawierający rozwiązanie problemu wraz z otrzymanymi wynikami
-- **`sformułowanie_wariacyjne.pdf`** – obliczenia przekształcające sformułowanie silne na sformułowanie wariacyjne 
+- [**`main.py`**](https://github.com/OlGierd03/rrirProject/blob/main/main.py) – skrypt rozwiązujący równanie różniczkowe
+- [**`README.md`**](https://github.com/OlGierd03/rrirProject/blob/main/README.md) – ten plik, zawierający opis problemu
+- [**`rrir_notebook.ipynb`**](https://github.com/OlGierd03/rrirProject/blob/main/rrir_notebook.ipynb) – notatnik zawierający rozwiązanie problemu wraz z otrzymanymi wynikami
+- [**`sformułowanie_wariacyjne.pdf`**](https://github.com/OlGierd03/rrirProject/blob/main/sformu%C5%82owanie_wariacyjne.pdf) – obliczenia przekształcające sformułowanie silne na sformułowanie wariacyjne 
 
 ## Wymagania
-
-Do uruchomienia skryptu wymagane są:
 
 - Python 3.x
 - Biblioteki: NumPy, Matplotlib
 
 ## Uruchomienie
 
-1. Instalacja wymaganych bibliotek:
-   ```bash
-   pip install numpy matplotlib
+Instalacja wymaganych bibliotek:
+```bash
+pip install numpy matplotlib

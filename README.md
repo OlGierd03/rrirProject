@@ -22,15 +22,16 @@ $$
 \varphi(3) = 2
 $$
 
-Dane parametry:
+oraz zadanymi parametrami:
 
-- $\rho = 1$
-- $\varepsilon_r$ zależy od przedziału:
+$$
+\rho = 1
+$$
 
 $$
 \varepsilon_r =
 \begin{cases}
-10^3, & x \in [0,1] \\
+10, & x \in [0,1] \\
 5, & x \in (1,2] \\
 1, & x \in (2,3]
 \end{cases}
